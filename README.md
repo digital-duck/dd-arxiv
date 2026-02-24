@@ -4,7 +4,7 @@ Research papers accepted at [arxiv.org](https://arxiv.org)
 
 | # | arXiv ID | Category | Title |
 |---|----------|----------|-------|
-| 6 | submit/7290701 | cs.CL, cs.DB | Structured Prompt Language: Declarative Context Management for LLMs |
+| 6 | submit/7290701 | cs.CL, cs.DB | [Structured Prompt Language: Declarative Context Management for LLMs](./docs/spl-paper.pdf) |
 | 5 | [2602.15860](https://arxiv.org/abs/2602.15860) | cs.CL | Reranker Optimization via Geodesic Distances on k-NN Manifolds |
 | 4 | [2601.09732](https://arxiv.org/abs/2601.09732) | cs.CL | Benchmarking Cross-Lingual Semantic Alignment in Multilingual Embeddings |
 | 3 | [2601.09731](https://arxiv.org/abs/2601.09731) | cs.CL | Geometric Patterns of Meaning: A PHATE Manifold Analysis of Multi-lingual Embeddings |
