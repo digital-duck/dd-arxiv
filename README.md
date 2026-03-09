@@ -1,6 +1,7 @@
 # dd-arxiv
 
-Research papers accepted at [arxiv.org](https://arxiv.org)
+## Research papers 
+
 
 | # | arXiv ID | Category | Title |
 |---|----------|----------|-------|
@@ -10,3 +11,10 @@ Research papers accepted at [arxiv.org](https://arxiv.org)
 | 3 | [2601.09731](https://arxiv.org/abs/2601.09731) | cs.CL | Geometric Patterns of Meaning: A PHATE Manifold Analysis of Multi-lingual Embeddings |
 | 2 | [2510.01230](https://arxiv.org/abs/2510.01230) | cs.CL | Geometric Structures and Patterns of Meaning: A PHATE Manifold Analysis of Chinese Character Embeddings |
 | 1 | [2502.19428](https://arxiv.org/abs/2502.19428) | physics.soc-ph | A New Exploration into Chinese Characters: from Simplification to Deeper Understanding |
+
+
+## Blogs
+
+| Title |    URL | Comment  |
+|-------|--------|----------|
+| The Momahub Moment | https://medium.com/@wen.g.gong/the-momahub-moment-df852c42f3da | |
