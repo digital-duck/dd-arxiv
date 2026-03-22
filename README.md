@@ -7,7 +7,7 @@
 |---|----------|----------|-------|-------|
 | 8 | Submission Pending | cs.CL, cs.PL, cs.AI | [SPL 2.0: A Declarative Language for Agentic Workflow Orchestration](./docs/docs/spl2-declarative-agentic-workflow-v0.6.pdf) |  In Preparation |
 | 7 | submit/7373026 | cs.CL, cs.PL, cs.DC | [Momagrid: A Decentralized Inference Runtime with Linear Complexity via Semantic Chunking](./docs/momagrid-v0.8.pdf) |  Review Pending |
-| 6 | [2602.21257](https://arxiv.org/abs/2602.21257) | cs.CL, cs.PL, cs.DB | [Structured Prompt Language: Declarative Context Management for LLMs](./docs/spl-paper.pdf) | |
+| 6 | [2602.21257](https://arxiv.org/abs/2602.21257) | cs.CL, cs.PL, cs.DB | Structured Prompt Language (SPL): Declarative Context Management for LLMs| |
 | 5 | [2602.15860](https://arxiv.org/abs/2602.15860) | cs.CL | Reranker Optimization via Geodesic Distances on k-NN Manifolds | Under Review |
 | 4 | [2601.09732](https://arxiv.org/abs/2601.09732) | cs.CL | Benchmarking Cross-Lingual Semantic Alignment in Multilingual Embeddings | Submitted to [ICML 2026](https://icml.cc/), Under Review |
 | 3 | [2601.09731](https://arxiv.org/abs/2601.09731) | cs.CL | Geometric Patterns of Meaning: A PHATE Manifold Analysis of Multi-lingual Embeddings | |
