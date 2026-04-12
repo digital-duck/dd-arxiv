@@ -19,6 +19,7 @@
 
 | Title |    URL | Comment  | Repo |
 |-------|--------|----------|--------|
+| AI@Home with Gemma | https://medium.com/@wen.g.gong/ai-home-with-gemma-369fa8c27e2b?postPublishedType=repub | | |
 | The Momahub Moment | https://medium.com/@wen.g.gong/the-momahub-moment-df852c42f3da | | https://github.com/digital-duck/momahub.py |
 
 
